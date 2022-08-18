@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background:linear-gradient(to right, rgb(112, 112, 228) 20%, rgb(145, 208, 145) 80%);;
+}
+h1{
+    text-align: center;
+    color: black;
+}
+h2, h3{
+    text-align: center;
+    color: rgb(45, 11, 114);
+    margin-top: 1rem;
+}
+ul{
+    margin-top: 4rem;
+    text-align: center;
+}
+li{
+    margin-top: 1rem;
+}    
+input{
+    background-color: #7699bf;
+    height: 4rem;
+    width: 26rem;
+    font-size: 1.5rem;
+    color: rgb(29, 5, 126);
+    cursor: pointer;
+    border-radius: 1.5rem;
+}
+
